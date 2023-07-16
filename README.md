@@ -2,7 +2,7 @@
 On-Cloud-N-Cloud-Cover-Detection-Challenge-top2-solution.
 
 
-![](asset\fig1.jpg)
+![](asset/fig1.jpg)
 ## introduction
 
 We won the second place in the [On Cloud N: Cloud Cover Detection Challenge](https://www.drivendata.org/competitions/83/cloud-cover/page/396/).
